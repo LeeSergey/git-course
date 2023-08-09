@@ -1,5 +1,3 @@
-# Git and Gitlab Course
+# Git and Githib Course
 
 Crach course for Git
-
-Upload to Gitlab
